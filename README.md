@@ -1,4 +1,4 @@
-# .Net Core 2.2 and C# 7,2
+# .Net Core 2.2 and C# 7.2
 
 ## Just a repository of several apps built in exploring new features and changes in .Net Core 2.2, most framewoks and C# 7.2. Including:
 
