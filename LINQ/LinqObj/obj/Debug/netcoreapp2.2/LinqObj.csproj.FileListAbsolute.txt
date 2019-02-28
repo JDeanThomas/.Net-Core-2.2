@@ -1,0 +1,11 @@
+/Users/jasonthomas/Projects/C_Sharp/LINQ/LinqObj/bin/Debug/netcoreapp2.2/LinqObj.deps.json
+/Users/jasonthomas/Projects/C_Sharp/LINQ/LinqObj/bin/Debug/netcoreapp2.2/LinqObj.runtimeconfig.json
+/Users/jasonthomas/Projects/C_Sharp/LINQ/LinqObj/bin/Debug/netcoreapp2.2/LinqObj.runtimeconfig.dev.json
+/Users/jasonthomas/Projects/C_Sharp/LINQ/LinqObj/bin/Debug/netcoreapp2.2/LinqObj.dll
+/Users/jasonthomas/Projects/C_Sharp/LINQ/LinqObj/bin/Debug/netcoreapp2.2/LinqObj.pdb
+/Users/jasonthomas/Projects/C_Sharp/LINQ/LinqObj/obj/Debug/netcoreapp2.2/LinqObj.csprojAssemblyReference.cache
+/Users/jasonthomas/Projects/C_Sharp/LINQ/LinqObj/obj/Debug/netcoreapp2.2/LinqObj.csproj.CoreCompileInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/LINQ/LinqObj/obj/Debug/netcoreapp2.2/LinqObj.AssemblyInfoInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/LINQ/LinqObj/obj/Debug/netcoreapp2.2/LinqObj.AssemblyInfo.cs
+/Users/jasonthomas/Projects/C_Sharp/LINQ/LinqObj/obj/Debug/netcoreapp2.2/LinqObj.dll
+/Users/jasonthomas/Projects/C_Sharp/LINQ/LinqObj/obj/Debug/netcoreapp2.2/LinqObj.pdb

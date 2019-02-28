@@ -1,0 +1,11 @@
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Letters/bin/Debug/netcoreapp2.2/Letters.deps.json
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Letters/bin/Debug/netcoreapp2.2/Letters.runtimeconfig.json
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Letters/bin/Debug/netcoreapp2.2/Letters.runtimeconfig.dev.json
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Letters/bin/Debug/netcoreapp2.2/Letters.dll
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Letters/bin/Debug/netcoreapp2.2/Letters.pdb
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Letters/obj/Debug/netcoreapp2.2/Letters.csprojAssemblyReference.cache
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Letters/obj/Debug/netcoreapp2.2/Letters.csproj.CoreCompileInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Letters/obj/Debug/netcoreapp2.2/Letters.AssemblyInfoInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Letters/obj/Debug/netcoreapp2.2/Letters.AssemblyInfo.cs
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Letters/obj/Debug/netcoreapp2.2/Letters.dll
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Letters/obj/Debug/netcoreapp2.2/Letters.pdb

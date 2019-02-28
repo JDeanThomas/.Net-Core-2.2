@@ -1,0 +1,11 @@
+/Users/jasonthomas/Projects/C_Sharp/Async/ParallelAsyncCoinMiner/ParallelAsyncCoinMiner/bin/Debug/netcoreapp2.2/ParallelAsyncCoinMiner.deps.json
+/Users/jasonthomas/Projects/C_Sharp/Async/ParallelAsyncCoinMiner/ParallelAsyncCoinMiner/bin/Debug/netcoreapp2.2/ParallelAsyncCoinMiner.runtimeconfig.json
+/Users/jasonthomas/Projects/C_Sharp/Async/ParallelAsyncCoinMiner/ParallelAsyncCoinMiner/bin/Debug/netcoreapp2.2/ParallelAsyncCoinMiner.runtimeconfig.dev.json
+/Users/jasonthomas/Projects/C_Sharp/Async/ParallelAsyncCoinMiner/ParallelAsyncCoinMiner/bin/Debug/netcoreapp2.2/ParallelAsyncCoinMiner.dll
+/Users/jasonthomas/Projects/C_Sharp/Async/ParallelAsyncCoinMiner/ParallelAsyncCoinMiner/bin/Debug/netcoreapp2.2/ParallelAsyncCoinMiner.pdb
+/Users/jasonthomas/Projects/C_Sharp/Async/ParallelAsyncCoinMiner/ParallelAsyncCoinMiner/obj/Debug/netcoreapp2.2/ParallelAsyncCoinMiner.csprojAssemblyReference.cache
+/Users/jasonthomas/Projects/C_Sharp/Async/ParallelAsyncCoinMiner/ParallelAsyncCoinMiner/obj/Debug/netcoreapp2.2/ParallelAsyncCoinMiner.csproj.CoreCompileInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/Async/ParallelAsyncCoinMiner/ParallelAsyncCoinMiner/obj/Debug/netcoreapp2.2/ParallelAsyncCoinMiner.AssemblyInfoInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/Async/ParallelAsyncCoinMiner/ParallelAsyncCoinMiner/obj/Debug/netcoreapp2.2/ParallelAsyncCoinMiner.AssemblyInfo.cs
+/Users/jasonthomas/Projects/C_Sharp/Async/ParallelAsyncCoinMiner/ParallelAsyncCoinMiner/obj/Debug/netcoreapp2.2/ParallelAsyncCoinMiner.dll
+/Users/jasonthomas/Projects/C_Sharp/Async/ParallelAsyncCoinMiner/ParallelAsyncCoinMiner/obj/Debug/netcoreapp2.2/ParallelAsyncCoinMiner.pdb

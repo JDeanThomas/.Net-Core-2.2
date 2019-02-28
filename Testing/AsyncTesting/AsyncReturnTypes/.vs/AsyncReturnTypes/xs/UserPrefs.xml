@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{7DC1A77C-E6AA-4BC6-BD57-6B7235F17E28}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AsyncReturnTypeLibrary/AsyncReturnTypeManager.cs">
+    <Files>
+      <File FileName="AsyncReturnTypeLibrary/AsyncReturnTypeManager.cs" Line="116" Column="10" />
+      <File FileName="AsyncReturnTypes.xUnit/AsyncReturnTypeManagerTest.cs" Line="74" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AsyncReturnTypes.xUnit PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

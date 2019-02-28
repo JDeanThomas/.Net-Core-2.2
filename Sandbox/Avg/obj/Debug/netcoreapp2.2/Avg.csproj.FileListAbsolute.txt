@@ -1,0 +1,11 @@
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Avg/obj/Debug/netcoreapp2.2/Avg.csprojAssemblyReference.cache
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Avg/obj/Debug/netcoreapp2.2/Avg.csproj.CoreCompileInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Avg/obj/Debug/netcoreapp2.2/Avg.AssemblyInfoInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Avg/obj/Debug/netcoreapp2.2/Avg.AssemblyInfo.cs
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Avg/bin/Debug/netcoreapp2.2/Avg.deps.json
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Avg/bin/Debug/netcoreapp2.2/Avg.runtimeconfig.json
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Avg/bin/Debug/netcoreapp2.2/Avg.runtimeconfig.dev.json
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Avg/bin/Debug/netcoreapp2.2/Avg.dll
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Avg/bin/Debug/netcoreapp2.2/Avg.pdb
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Avg/obj/Debug/netcoreapp2.2/Avg.dll
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Avg/obj/Debug/netcoreapp2.2/Avg.pdb

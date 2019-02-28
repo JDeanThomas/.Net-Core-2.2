@@ -1,0 +1,8 @@
+/Users/jasonthomas/Projects/C_Sharp/Testing/AsyncTesting/AsyncReturnTypes/AsyncReturnTypeLibrary/bin/Debug/netstandard2.0/AsyncReturnTypeLibrary.deps.json
+/Users/jasonthomas/Projects/C_Sharp/Testing/AsyncTesting/AsyncReturnTypes/AsyncReturnTypeLibrary/bin/Debug/netstandard2.0/AsyncReturnTypeLibrary.dll
+/Users/jasonthomas/Projects/C_Sharp/Testing/AsyncTesting/AsyncReturnTypes/AsyncReturnTypeLibrary/bin/Debug/netstandard2.0/AsyncReturnTypeLibrary.pdb
+/Users/jasonthomas/Projects/C_Sharp/Testing/AsyncTesting/AsyncReturnTypes/AsyncReturnTypeLibrary/obj/Debug/netstandard2.0/AsyncReturnTypeLibrary.csproj.CoreCompileInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/Testing/AsyncTesting/AsyncReturnTypes/AsyncReturnTypeLibrary/obj/Debug/netstandard2.0/AsyncReturnTypeLibrary.AssemblyInfoInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/Testing/AsyncTesting/AsyncReturnTypes/AsyncReturnTypeLibrary/obj/Debug/netstandard2.0/AsyncReturnTypeLibrary.AssemblyInfo.cs
+/Users/jasonthomas/Projects/C_Sharp/Testing/AsyncTesting/AsyncReturnTypes/AsyncReturnTypeLibrary/obj/Debug/netstandard2.0/AsyncReturnTypeLibrary.dll
+/Users/jasonthomas/Projects/C_Sharp/Testing/AsyncTesting/AsyncReturnTypes/AsyncReturnTypeLibrary/obj/Debug/netstandard2.0/AsyncReturnTypeLibrary.pdb

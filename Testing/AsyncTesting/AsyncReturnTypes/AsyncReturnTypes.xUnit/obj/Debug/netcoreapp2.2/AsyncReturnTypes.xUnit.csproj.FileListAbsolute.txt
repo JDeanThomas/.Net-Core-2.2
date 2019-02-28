@@ -1,0 +1,17 @@
+/Users/jasonthomas/Projects/C_Sharp/Testing/AsyncTesting/AsyncReturnTypes/AsyncReturnTypes.xUnit/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/jasonthomas/Projects/C_Sharp/Testing/AsyncTesting/AsyncReturnTypes/AsyncReturnTypes.xUnit/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/jasonthomas/Projects/C_Sharp/Testing/AsyncTesting/AsyncReturnTypes/AsyncReturnTypes.xUnit/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/jasonthomas/Projects/C_Sharp/Testing/AsyncTesting/AsyncReturnTypes/AsyncReturnTypes.xUnit/bin/Debug/netcoreapp2.2/AsyncReturnTypes.xUnit.deps.json
+/Users/jasonthomas/Projects/C_Sharp/Testing/AsyncTesting/AsyncReturnTypes/AsyncReturnTypes.xUnit/bin/Debug/netcoreapp2.2/AsyncReturnTypes.xUnit.runtimeconfig.json
+/Users/jasonthomas/Projects/C_Sharp/Testing/AsyncTesting/AsyncReturnTypes/AsyncReturnTypes.xUnit/bin/Debug/netcoreapp2.2/AsyncReturnTypes.xUnit.runtimeconfig.dev.json
+/Users/jasonthomas/Projects/C_Sharp/Testing/AsyncTesting/AsyncReturnTypes/AsyncReturnTypes.xUnit/bin/Debug/netcoreapp2.2/AsyncReturnTypes.xUnit.dll
+/Users/jasonthomas/Projects/C_Sharp/Testing/AsyncTesting/AsyncReturnTypes/AsyncReturnTypes.xUnit/bin/Debug/netcoreapp2.2/AsyncReturnTypes.xUnit.pdb
+/Users/jasonthomas/Projects/C_Sharp/Testing/AsyncTesting/AsyncReturnTypes/AsyncReturnTypes.xUnit/bin/Debug/netcoreapp2.2/AsyncReturnTypeLibrary.dll
+/Users/jasonthomas/Projects/C_Sharp/Testing/AsyncTesting/AsyncReturnTypes/AsyncReturnTypes.xUnit/bin/Debug/netcoreapp2.2/AsyncReturnTypeLibrary.pdb
+/Users/jasonthomas/Projects/C_Sharp/Testing/AsyncTesting/AsyncReturnTypes/AsyncReturnTypes.xUnit/obj/Debug/netcoreapp2.2/AsyncReturnTypes.xUnit.csprojAssemblyReference.cache
+/Users/jasonthomas/Projects/C_Sharp/Testing/AsyncTesting/AsyncReturnTypes/AsyncReturnTypes.xUnit/obj/Debug/netcoreapp2.2/AsyncReturnTypes.xUnit.csproj.CoreCompileInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/Testing/AsyncTesting/AsyncReturnTypes/AsyncReturnTypes.xUnit/obj/Debug/netcoreapp2.2/AsyncReturnTypes.xUnit.AssemblyInfoInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/Testing/AsyncTesting/AsyncReturnTypes/AsyncReturnTypes.xUnit/obj/Debug/netcoreapp2.2/AsyncReturnTypes.xUnit.AssemblyInfo.cs
+/Users/jasonthomas/Projects/C_Sharp/Testing/AsyncTesting/AsyncReturnTypes/AsyncReturnTypes.xUnit/obj/Debug/netcoreapp2.2/AsyncReturnTypes.xUnit.csproj.CopyComplete
+/Users/jasonthomas/Projects/C_Sharp/Testing/AsyncTesting/AsyncReturnTypes/AsyncReturnTypes.xUnit/obj/Debug/netcoreapp2.2/AsyncReturnTypes.xUnit.dll
+/Users/jasonthomas/Projects/C_Sharp/Testing/AsyncTesting/AsyncReturnTypes/AsyncReturnTypes.xUnit/obj/Debug/netcoreapp2.2/AsyncReturnTypes.xUnit.pdb

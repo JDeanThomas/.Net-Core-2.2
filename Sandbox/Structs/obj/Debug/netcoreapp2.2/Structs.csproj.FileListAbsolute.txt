@@ -1,0 +1,11 @@
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Structs/bin/Debug/netcoreapp2.2/Structs.deps.json
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Structs/bin/Debug/netcoreapp2.2/Structs.runtimeconfig.json
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Structs/bin/Debug/netcoreapp2.2/Structs.runtimeconfig.dev.json
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Structs/bin/Debug/netcoreapp2.2/Structs.dll
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Structs/bin/Debug/netcoreapp2.2/Structs.pdb
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Structs/obj/Debug/netcoreapp2.2/Structs.csprojAssemblyReference.cache
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Structs/obj/Debug/netcoreapp2.2/Structs.csproj.CoreCompileInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Structs/obj/Debug/netcoreapp2.2/Structs.AssemblyInfoInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Structs/obj/Debug/netcoreapp2.2/Structs.AssemblyInfo.cs
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Structs/obj/Debug/netcoreapp2.2/Structs.dll
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Structs/obj/Debug/netcoreapp2.2/Structs.pdb

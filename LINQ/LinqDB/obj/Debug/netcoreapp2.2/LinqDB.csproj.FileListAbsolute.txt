@@ -1,0 +1,11 @@
+/Users/jasonthomas/Projects/C_Sharp/LINQ/LinqDB/bin/Debug/netcoreapp2.2/LinqDB.deps.json
+/Users/jasonthomas/Projects/C_Sharp/LINQ/LinqDB/bin/Debug/netcoreapp2.2/LinqDB.runtimeconfig.json
+/Users/jasonthomas/Projects/C_Sharp/LINQ/LinqDB/bin/Debug/netcoreapp2.2/LinqDB.runtimeconfig.dev.json
+/Users/jasonthomas/Projects/C_Sharp/LINQ/LinqDB/bin/Debug/netcoreapp2.2/LinqDB.dll
+/Users/jasonthomas/Projects/C_Sharp/LINQ/LinqDB/bin/Debug/netcoreapp2.2/LinqDB.pdb
+/Users/jasonthomas/Projects/C_Sharp/LINQ/LinqDB/obj/Debug/netcoreapp2.2/LinqDB.csprojAssemblyReference.cache
+/Users/jasonthomas/Projects/C_Sharp/LINQ/LinqDB/obj/Debug/netcoreapp2.2/LinqDB.csproj.CoreCompileInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/LINQ/LinqDB/obj/Debug/netcoreapp2.2/LinqDB.AssemblyInfoInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/LINQ/LinqDB/obj/Debug/netcoreapp2.2/LinqDB.AssemblyInfo.cs
+/Users/jasonthomas/Projects/C_Sharp/LINQ/LinqDB/obj/Debug/netcoreapp2.2/LinqDB.dll
+/Users/jasonthomas/Projects/C_Sharp/LINQ/LinqDB/obj/Debug/netcoreapp2.2/LinqDB.pdb

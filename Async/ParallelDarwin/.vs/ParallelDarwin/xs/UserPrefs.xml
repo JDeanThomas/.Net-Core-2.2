@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{23538889-EE5C-41D2-A084-B1CFF919B710}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ParallelDarwin.cs">
+    <Files>
+      <File FileName="ParallelDarwin.cs" Line="102" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ParallelDarwin PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

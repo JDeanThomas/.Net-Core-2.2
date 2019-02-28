@@ -1,0 +1,11 @@
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/MaxDiff/bin/Debug/netcoreapp2.2/MaxDiff.deps.json
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/MaxDiff/bin/Debug/netcoreapp2.2/MaxDiff.runtimeconfig.json
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/MaxDiff/bin/Debug/netcoreapp2.2/MaxDiff.runtimeconfig.dev.json
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/MaxDiff/bin/Debug/netcoreapp2.2/MaxDiff.dll
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/MaxDiff/bin/Debug/netcoreapp2.2/MaxDiff.pdb
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/MaxDiff/obj/Debug/netcoreapp2.2/MaxDiff.csprojAssemblyReference.cache
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/MaxDiff/obj/Debug/netcoreapp2.2/MaxDiff.csproj.CoreCompileInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/MaxDiff/obj/Debug/netcoreapp2.2/MaxDiff.AssemblyInfoInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/MaxDiff/obj/Debug/netcoreapp2.2/MaxDiff.AssemblyInfo.cs
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/MaxDiff/obj/Debug/netcoreapp2.2/MaxDiff.dll
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/MaxDiff/obj/Debug/netcoreapp2.2/MaxDiff.pdb

@@ -1,0 +1,11 @@
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Test/bin/Debug/netcoreapp2.2/Test.deps.json
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Test/bin/Debug/netcoreapp2.2/Test.runtimeconfig.json
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Test/bin/Debug/netcoreapp2.2/Test.runtimeconfig.dev.json
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Test/bin/Debug/netcoreapp2.2/Test.dll
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Test/bin/Debug/netcoreapp2.2/Test.pdb
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Test/obj/Debug/netcoreapp2.2/Test.csprojAssemblyReference.cache
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Test/obj/Debug/netcoreapp2.2/Test.csproj.CoreCompileInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Test/obj/Debug/netcoreapp2.2/Test.AssemblyInfoInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Test/obj/Debug/netcoreapp2.2/Test.AssemblyInfo.cs
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Test/obj/Debug/netcoreapp2.2/Test.dll
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/Test/obj/Debug/netcoreapp2.2/Test.pdb

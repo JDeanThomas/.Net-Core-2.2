@@ -1,0 +1,14 @@
+/Users/jasonthomas/Projects/C_Sharp/Async/AsyncCoinWebApi/AsyncCoinWebApi/bin/Debug/netcoreapp2.1/AsyncCoinWebApi.deps.json
+/Users/jasonthomas/Projects/C_Sharp/Async/AsyncCoinWebApi/AsyncCoinWebApi/bin/Debug/netcoreapp2.1/AsyncCoinWebApi.runtimeconfig.json
+/Users/jasonthomas/Projects/C_Sharp/Async/AsyncCoinWebApi/AsyncCoinWebApi/bin/Debug/netcoreapp2.1/AsyncCoinWebApi.runtimeconfig.dev.json
+/Users/jasonthomas/Projects/C_Sharp/Async/AsyncCoinWebApi/AsyncCoinWebApi/bin/Debug/netcoreapp2.1/AsyncCoinWebApi.dll
+/Users/jasonthomas/Projects/C_Sharp/Async/AsyncCoinWebApi/AsyncCoinWebApi/bin/Debug/netcoreapp2.1/AsyncCoinWebApi.pdb
+/Users/jasonthomas/Projects/C_Sharp/Async/AsyncCoinWebApi/AsyncCoinWebApi/obj/Debug/netcoreapp2.1/AsyncCoinWebApi.csprojAssemblyReference.cache
+/Users/jasonthomas/Projects/C_Sharp/Async/AsyncCoinWebApi/AsyncCoinWebApi/obj/Debug/netcoreapp2.1/AsyncCoinWebApi.csproj.CoreCompileInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/Async/AsyncCoinWebApi/AsyncCoinWebApi/obj/Debug/netcoreapp2.1/AsyncCoinWebApi.RazorAssemblyInfo.cache
+/Users/jasonthomas/Projects/C_Sharp/Async/AsyncCoinWebApi/AsyncCoinWebApi/obj/Debug/netcoreapp2.1/AsyncCoinWebApi.RazorAssemblyInfo.cs
+/Users/jasonthomas/Projects/C_Sharp/Async/AsyncCoinWebApi/AsyncCoinWebApi/obj/Debug/netcoreapp2.1/AsyncCoinWebApi.AssemblyInfoInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/Async/AsyncCoinWebApi/AsyncCoinWebApi/obj/Debug/netcoreapp2.1/AsyncCoinWebApi.AssemblyInfo.cs
+/Users/jasonthomas/Projects/C_Sharp/Async/AsyncCoinWebApi/AsyncCoinWebApi/obj/Debug/netcoreapp2.1/AsyncCoinWebApi.RazorTargetAssemblyInfo.cache
+/Users/jasonthomas/Projects/C_Sharp/Async/AsyncCoinWebApi/AsyncCoinWebApi/obj/Debug/netcoreapp2.1/AsyncCoinWebApi.dll
+/Users/jasonthomas/Projects/C_Sharp/Async/AsyncCoinWebApi/AsyncCoinWebApi/obj/Debug/netcoreapp2.1/AsyncCoinWebApi.pdb

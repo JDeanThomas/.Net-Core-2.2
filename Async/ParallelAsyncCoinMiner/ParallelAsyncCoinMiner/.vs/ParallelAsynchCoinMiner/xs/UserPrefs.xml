@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{C7F0CA43-E9E9-43C8-9EC1-96FB510D7BAF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ParallelMiningManager.cs">
+    <Files>
+      <File FileName="ParallelMiningManager.cs" Line="7" Column="39" />
+      <File FileName="Program.cs" Line="16" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ParallelAsynchCoinMiner PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

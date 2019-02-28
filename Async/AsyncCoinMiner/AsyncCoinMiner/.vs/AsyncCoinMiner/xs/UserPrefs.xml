@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{28CDFD7B-962C-43E6-88EC-F33CF49B3629}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AsyncCoinMiningManager.cs">
+    <Files>
+      <File FileName="Program.cs" Line="12" Column="37" />
+      <File FileName="AsyncCoinMiningManager.cs" Line="88" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AsyncCoinMiner PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

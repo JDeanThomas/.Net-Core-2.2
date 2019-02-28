@@ -1,0 +1,22 @@
+/Users/jasonthomas/Projects/C_Sharp/Data Modeling/MovieApp/bin/Debug/netcoreapp2.2/MovieApp.deps.json
+/Users/jasonthomas/Projects/C_Sharp/Data Modeling/MovieApp/bin/Debug/netcoreapp2.2/MovieApp.runtimeconfig.json
+/Users/jasonthomas/Projects/C_Sharp/Data Modeling/MovieApp/bin/Debug/netcoreapp2.2/MovieApp.runtimeconfig.dev.json
+/Users/jasonthomas/Projects/C_Sharp/Data Modeling/MovieApp/bin/Debug/netcoreapp2.2/MovieApp.dll
+/Users/jasonthomas/Projects/C_Sharp/Data Modeling/MovieApp/bin/Debug/netcoreapp2.2/MovieApp.pdb
+/Users/jasonthomas/Projects/C_Sharp/Data Modeling/MovieApp/obj/Debug/netcoreapp2.2/MovieApp.csprojAssemblyReference.cache
+/Users/jasonthomas/Projects/C_Sharp/Data Modeling/MovieApp/obj/Debug/netcoreapp2.2/MovieApp.csproj.CoreCompileInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/Data Modeling/MovieApp/obj/Debug/netcoreapp2.2/MovieApp.AssemblyInfoInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/Data Modeling/MovieApp/obj/Debug/netcoreapp2.2/MovieApp.AssemblyInfo.cs
+/Users/jasonthomas/Projects/C_Sharp/Data Modeling/MovieApp/obj/Debug/netcoreapp2.2/MovieApp.dll
+/Users/jasonthomas/Projects/C_Sharp/Data Modeling/MovieApp/obj/Debug/netcoreapp2.2/MovieApp.pdb
+/Users/jasonthomas/Projects/C_Sharp/DataAccess/MovieApp/bin/Debug/netcoreapp2.2/MovieApp.deps.json
+/Users/jasonthomas/Projects/C_Sharp/DataAccess/MovieApp/bin/Debug/netcoreapp2.2/MovieApp.runtimeconfig.json
+/Users/jasonthomas/Projects/C_Sharp/DataAccess/MovieApp/bin/Debug/netcoreapp2.2/MovieApp.runtimeconfig.dev.json
+/Users/jasonthomas/Projects/C_Sharp/DataAccess/MovieApp/bin/Debug/netcoreapp2.2/MovieApp.dll
+/Users/jasonthomas/Projects/C_Sharp/DataAccess/MovieApp/bin/Debug/netcoreapp2.2/MovieApp.pdb
+/Users/jasonthomas/Projects/C_Sharp/DataAccess/MovieApp/obj/Debug/netcoreapp2.2/MovieApp.csprojAssemblyReference.cache
+/Users/jasonthomas/Projects/C_Sharp/DataAccess/MovieApp/obj/Debug/netcoreapp2.2/MovieApp.csproj.CoreCompileInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/DataAccess/MovieApp/obj/Debug/netcoreapp2.2/MovieApp.AssemblyInfoInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/DataAccess/MovieApp/obj/Debug/netcoreapp2.2/MovieApp.AssemblyInfo.cs
+/Users/jasonthomas/Projects/C_Sharp/DataAccess/MovieApp/obj/Debug/netcoreapp2.2/MovieApp.dll
+/Users/jasonthomas/Projects/C_Sharp/DataAccess/MovieApp/obj/Debug/netcoreapp2.2/MovieApp.pdb

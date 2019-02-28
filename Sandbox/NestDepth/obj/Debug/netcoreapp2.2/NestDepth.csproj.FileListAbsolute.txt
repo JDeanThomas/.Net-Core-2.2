@@ -1,0 +1,11 @@
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/NestDepth/bin/Debug/netcoreapp2.2/NestDepth.deps.json
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/NestDepth/bin/Debug/netcoreapp2.2/NestDepth.runtimeconfig.json
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/NestDepth/bin/Debug/netcoreapp2.2/NestDepth.runtimeconfig.dev.json
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/NestDepth/bin/Debug/netcoreapp2.2/NestDepth.dll
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/NestDepth/bin/Debug/netcoreapp2.2/NestDepth.pdb
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/NestDepth/obj/Debug/netcoreapp2.2/NestDepth.csprojAssemblyReference.cache
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/NestDepth/obj/Debug/netcoreapp2.2/NestDepth.csproj.CoreCompileInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/NestDepth/obj/Debug/netcoreapp2.2/NestDepth.AssemblyInfoInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/NestDepth/obj/Debug/netcoreapp2.2/NestDepth.AssemblyInfo.cs
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/NestDepth/obj/Debug/netcoreapp2.2/NestDepth.dll
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/NestDepth/obj/Debug/netcoreapp2.2/NestDepth.pdb

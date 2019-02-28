@@ -1,0 +1,11 @@
+/Users/jasonthomas/Projects/C_Sharp/Async/ParallelDarwin/obj/Debug/netcoreapp2.2/ParallelDarwin.csprojAssemblyReference.cache
+/Users/jasonthomas/Projects/C_Sharp/Async/ParallelDarwin/obj/Debug/netcoreapp2.2/ParallelDarwin.csproj.CoreCompileInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/Async/ParallelDarwin/obj/Debug/netcoreapp2.2/ParallelDarwin.AssemblyInfoInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/Async/ParallelDarwin/obj/Debug/netcoreapp2.2/ParallelDarwin.AssemblyInfo.cs
+/Users/jasonthomas/Projects/C_Sharp/Async/ParallelDarwin/bin/Debug/netcoreapp2.2/ParallelDarwin.deps.json
+/Users/jasonthomas/Projects/C_Sharp/Async/ParallelDarwin/bin/Debug/netcoreapp2.2/ParallelDarwin.runtimeconfig.json
+/Users/jasonthomas/Projects/C_Sharp/Async/ParallelDarwin/bin/Debug/netcoreapp2.2/ParallelDarwin.runtimeconfig.dev.json
+/Users/jasonthomas/Projects/C_Sharp/Async/ParallelDarwin/bin/Debug/netcoreapp2.2/ParallelDarwin.dll
+/Users/jasonthomas/Projects/C_Sharp/Async/ParallelDarwin/bin/Debug/netcoreapp2.2/ParallelDarwin.pdb
+/Users/jasonthomas/Projects/C_Sharp/Async/ParallelDarwin/obj/Debug/netcoreapp2.2/ParallelDarwin.dll
+/Users/jasonthomas/Projects/C_Sharp/Async/ParallelDarwin/obj/Debug/netcoreapp2.2/ParallelDarwin.pdb

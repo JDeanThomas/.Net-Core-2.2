@@ -1,0 +1,11 @@
+/Users/jasonthomas/Projects/C_Sharp/Async/ConsoleApp/ConsoleApp/bin/Debug/netcoreapp2.1/ConsoleApp.deps.json
+/Users/jasonthomas/Projects/C_Sharp/Async/ConsoleApp/ConsoleApp/bin/Debug/netcoreapp2.1/ConsoleApp.runtimeconfig.json
+/Users/jasonthomas/Projects/C_Sharp/Async/ConsoleApp/ConsoleApp/bin/Debug/netcoreapp2.1/ConsoleApp.runtimeconfig.dev.json
+/Users/jasonthomas/Projects/C_Sharp/Async/ConsoleApp/ConsoleApp/bin/Debug/netcoreapp2.1/ConsoleApp.dll
+/Users/jasonthomas/Projects/C_Sharp/Async/ConsoleApp/ConsoleApp/bin/Debug/netcoreapp2.1/ConsoleApp.pdb
+/Users/jasonthomas/Projects/C_Sharp/Async/ConsoleApp/ConsoleApp/obj/Debug/netcoreapp2.1/ConsoleApp.csprojAssemblyReference.cache
+/Users/jasonthomas/Projects/C_Sharp/Async/ConsoleApp/ConsoleApp/obj/Debug/netcoreapp2.1/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/Async/ConsoleApp/ConsoleApp/obj/Debug/netcoreapp2.1/ConsoleApp.AssemblyInfoInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/Async/ConsoleApp/ConsoleApp/obj/Debug/netcoreapp2.1/ConsoleApp.AssemblyInfo.cs
+/Users/jasonthomas/Projects/C_Sharp/Async/ConsoleApp/ConsoleApp/obj/Debug/netcoreapp2.1/ConsoleApp.dll
+/Users/jasonthomas/Projects/C_Sharp/Async/ConsoleApp/ConsoleApp/obj/Debug/netcoreapp2.1/ConsoleApp.pdb

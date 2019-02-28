@@ -1,0 +1,11 @@
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/KSmallest/bin/Debug/netcoreapp2.2/KSmallest.deps.json
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/KSmallest/bin/Debug/netcoreapp2.2/KSmallest.runtimeconfig.json
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/KSmallest/bin/Debug/netcoreapp2.2/KSmallest.runtimeconfig.dev.json
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/KSmallest/bin/Debug/netcoreapp2.2/KSmallest.dll
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/KSmallest/bin/Debug/netcoreapp2.2/KSmallest.pdb
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/KSmallest/obj/Debug/netcoreapp2.2/KSmallest.csprojAssemblyReference.cache
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/KSmallest/obj/Debug/netcoreapp2.2/KSmallest.csproj.CoreCompileInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/KSmallest/obj/Debug/netcoreapp2.2/KSmallest.AssemblyInfoInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/KSmallest/obj/Debug/netcoreapp2.2/KSmallest.AssemblyInfo.cs
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/KSmallest/obj/Debug/netcoreapp2.2/KSmallest.dll
+/Users/jasonthomas/Projects/C_Sharp/Sandbox/KSmallest/obj/Debug/netcoreapp2.2/KSmallest.pdb
