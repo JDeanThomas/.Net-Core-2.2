@@ -1,0 +1,14 @@
+/Users/jasonthomas/Projects/C_Sharp/APIs/edX_DEV247X_Build_WebAPIs_Using_ASP.NET/Module_2_Lab_Files/Use Postman Create HTTP Requests/WebServer/bin/Debug/netcoreapp2.2/WebServer.deps.json
+/Users/jasonthomas/Projects/C_Sharp/APIs/edX_DEV247X_Build_WebAPIs_Using_ASP.NET/Module_2_Lab_Files/Use Postman Create HTTP Requests/WebServer/bin/Debug/netcoreapp2.2/WebServer.runtimeconfig.json
+/Users/jasonthomas/Projects/C_Sharp/APIs/edX_DEV247X_Build_WebAPIs_Using_ASP.NET/Module_2_Lab_Files/Use Postman Create HTTP Requests/WebServer/bin/Debug/netcoreapp2.2/WebServer.runtimeconfig.dev.json
+/Users/jasonthomas/Projects/C_Sharp/APIs/edX_DEV247X_Build_WebAPIs_Using_ASP.NET/Module_2_Lab_Files/Use Postman Create HTTP Requests/WebServer/bin/Debug/netcoreapp2.2/WebServer.dll
+/Users/jasonthomas/Projects/C_Sharp/APIs/edX_DEV247X_Build_WebAPIs_Using_ASP.NET/Module_2_Lab_Files/Use Postman Create HTTP Requests/WebServer/bin/Debug/netcoreapp2.2/WebServer.pdb
+/Users/jasonthomas/Projects/C_Sharp/APIs/edX_DEV247X_Build_WebAPIs_Using_ASP.NET/Module_2_Lab_Files/Use Postman Create HTTP Requests/WebServer/obj/Debug/netcoreapp2.2/WebServer.csprojAssemblyReference.cache
+/Users/jasonthomas/Projects/C_Sharp/APIs/edX_DEV247X_Build_WebAPIs_Using_ASP.NET/Module_2_Lab_Files/Use Postman Create HTTP Requests/WebServer/obj/Debug/netcoreapp2.2/WebServer.csproj.CoreCompileInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/APIs/edX_DEV247X_Build_WebAPIs_Using_ASP.NET/Module_2_Lab_Files/Use Postman Create HTTP Requests/WebServer/obj/Debug/netcoreapp2.2/WebServer.RazorAssemblyInfo.cache
+/Users/jasonthomas/Projects/C_Sharp/APIs/edX_DEV247X_Build_WebAPIs_Using_ASP.NET/Module_2_Lab_Files/Use Postman Create HTTP Requests/WebServer/obj/Debug/netcoreapp2.2/WebServer.RazorAssemblyInfo.cs
+/Users/jasonthomas/Projects/C_Sharp/APIs/edX_DEV247X_Build_WebAPIs_Using_ASP.NET/Module_2_Lab_Files/Use Postman Create HTTP Requests/WebServer/obj/Debug/netcoreapp2.2/WebServer.AssemblyInfoInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/APIs/edX_DEV247X_Build_WebAPIs_Using_ASP.NET/Module_2_Lab_Files/Use Postman Create HTTP Requests/WebServer/obj/Debug/netcoreapp2.2/WebServer.AssemblyInfo.cs
+/Users/jasonthomas/Projects/C_Sharp/APIs/edX_DEV247X_Build_WebAPIs_Using_ASP.NET/Module_2_Lab_Files/Use Postman Create HTTP Requests/WebServer/obj/Debug/netcoreapp2.2/WebServer.RazorTargetAssemblyInfo.cache
+/Users/jasonthomas/Projects/C_Sharp/APIs/edX_DEV247X_Build_WebAPIs_Using_ASP.NET/Module_2_Lab_Files/Use Postman Create HTTP Requests/WebServer/obj/Debug/netcoreapp2.2/WebServer.dll
+/Users/jasonthomas/Projects/C_Sharp/APIs/edX_DEV247X_Build_WebAPIs_Using_ASP.NET/Module_2_Lab_Files/Use Postman Create HTTP Requests/WebServer/obj/Debug/netcoreapp2.2/WebServer.pdb

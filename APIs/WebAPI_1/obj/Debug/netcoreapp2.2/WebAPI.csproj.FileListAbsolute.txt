@@ -1,0 +1,11 @@
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI/bin/Debug/netcoreapp2.2/WebAPI.deps.json
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI/bin/Debug/netcoreapp2.2/WebAPI.runtimeconfig.json
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI/bin/Debug/netcoreapp2.2/WebAPI.runtimeconfig.dev.json
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI/bin/Debug/netcoreapp2.2/WebAPI.dll
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI/bin/Debug/netcoreapp2.2/WebAPI.pdb
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.csprojAssemblyReference.cache
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.csproj.CoreCompileInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.AssemblyInfoInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.AssemblyInfo.cs
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.dll
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.pdb
