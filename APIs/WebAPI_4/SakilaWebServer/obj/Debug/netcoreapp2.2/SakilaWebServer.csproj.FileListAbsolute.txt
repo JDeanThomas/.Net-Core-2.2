@@ -1,0 +1,14 @@
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_4/SakilaWebServer/bin/Debug/netcoreapp2.2/SakilaWebServer.deps.json
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_4/SakilaWebServer/bin/Debug/netcoreapp2.2/SakilaWebServer.runtimeconfig.json
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_4/SakilaWebServer/bin/Debug/netcoreapp2.2/SakilaWebServer.runtimeconfig.dev.json
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_4/SakilaWebServer/bin/Debug/netcoreapp2.2/SakilaWebServer.dll
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_4/SakilaWebServer/bin/Debug/netcoreapp2.2/SakilaWebServer.pdb
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_4/SakilaWebServer/obj/Debug/netcoreapp2.2/SakilaWebServer.csprojAssemblyReference.cache
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_4/SakilaWebServer/obj/Debug/netcoreapp2.2/SakilaWebServer.csproj.CoreCompileInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_4/SakilaWebServer/obj/Debug/netcoreapp2.2/SakilaWebServer.RazorAssemblyInfo.cache
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_4/SakilaWebServer/obj/Debug/netcoreapp2.2/SakilaWebServer.RazorAssemblyInfo.cs
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_4/SakilaWebServer/obj/Debug/netcoreapp2.2/SakilaWebServer.AssemblyInfoInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_4/SakilaWebServer/obj/Debug/netcoreapp2.2/SakilaWebServer.AssemblyInfo.cs
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_4/SakilaWebServer/obj/Debug/netcoreapp2.2/SakilaWebServer.RazorTargetAssemblyInfo.cache
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_4/SakilaWebServer/obj/Debug/netcoreapp2.2/SakilaWebServer.dll
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_4/SakilaWebServer/obj/Debug/netcoreapp2.2/SakilaWebServer.pdb

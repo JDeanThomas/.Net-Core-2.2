@@ -1,0 +1,12 @@
+/Users/jasonthomas/Projects/C_Sharp/Azure/BlobStorage/PhotoSharingApp/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/jasonthomas/Projects/C_Sharp/Azure/BlobStorage/PhotoSharingApp/bin/Debug/netcoreapp2.2/PhotoSharingApp.deps.json
+/Users/jasonthomas/Projects/C_Sharp/Azure/BlobStorage/PhotoSharingApp/bin/Debug/netcoreapp2.2/PhotoSharingApp.runtimeconfig.json
+/Users/jasonthomas/Projects/C_Sharp/Azure/BlobStorage/PhotoSharingApp/bin/Debug/netcoreapp2.2/PhotoSharingApp.runtimeconfig.dev.json
+/Users/jasonthomas/Projects/C_Sharp/Azure/BlobStorage/PhotoSharingApp/bin/Debug/netcoreapp2.2/PhotoSharingApp.dll
+/Users/jasonthomas/Projects/C_Sharp/Azure/BlobStorage/PhotoSharingApp/bin/Debug/netcoreapp2.2/PhotoSharingApp.pdb
+/Users/jasonthomas/Projects/C_Sharp/Azure/BlobStorage/PhotoSharingApp/obj/Debug/netcoreapp2.2/PhotoSharingApp.csprojAssemblyReference.cache
+/Users/jasonthomas/Projects/C_Sharp/Azure/BlobStorage/PhotoSharingApp/obj/Debug/netcoreapp2.2/PhotoSharingApp.csproj.CoreCompileInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/Azure/BlobStorage/PhotoSharingApp/obj/Debug/netcoreapp2.2/PhotoSharingApp.AssemblyInfoInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/Azure/BlobStorage/PhotoSharingApp/obj/Debug/netcoreapp2.2/PhotoSharingApp.AssemblyInfo.cs
+/Users/jasonthomas/Projects/C_Sharp/Azure/BlobStorage/PhotoSharingApp/obj/Debug/netcoreapp2.2/PhotoSharingApp.dll
+/Users/jasonthomas/Projects/C_Sharp/Azure/BlobStorage/PhotoSharingApp/obj/Debug/netcoreapp2.2/PhotoSharingApp.pdb

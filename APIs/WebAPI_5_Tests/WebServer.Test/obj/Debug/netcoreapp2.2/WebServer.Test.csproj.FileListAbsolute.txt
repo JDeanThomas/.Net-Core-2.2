@@ -1,0 +1,17 @@
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_5_Tests/WebServer.Test/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_5_Tests/WebServer.Test/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_5_Tests/WebServer.Test/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_5_Tests/WebServer.Test/bin/Debug/netcoreapp2.2/WebServer.Test.deps.json
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_5_Tests/WebServer.Test/bin/Debug/netcoreapp2.2/WebServer.Test.runtimeconfig.json
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_5_Tests/WebServer.Test/bin/Debug/netcoreapp2.2/WebServer.Test.runtimeconfig.dev.json
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_5_Tests/WebServer.Test/bin/Debug/netcoreapp2.2/WebServer.Test.dll
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_5_Tests/WebServer.Test/bin/Debug/netcoreapp2.2/WebServer.Test.pdb
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_5_Tests/WebServer.Test/bin/Debug/netcoreapp2.2/WebServer.dll
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_5_Tests/WebServer.Test/bin/Debug/netcoreapp2.2/WebServer.pdb
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_5_Tests/WebServer.Test/obj/Debug/netcoreapp2.2/WebServer.Test.csprojAssemblyReference.cache
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_5_Tests/WebServer.Test/obj/Debug/netcoreapp2.2/WebServer.Test.csproj.CoreCompileInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_5_Tests/WebServer.Test/obj/Debug/netcoreapp2.2/WebServer.Test.AssemblyInfoInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_5_Tests/WebServer.Test/obj/Debug/netcoreapp2.2/WebServer.Test.AssemblyInfo.cs
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_5_Tests/WebServer.Test/obj/Debug/netcoreapp2.2/WebServer.Test.csproj.CopyComplete
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_5_Tests/WebServer.Test/obj/Debug/netcoreapp2.2/WebServer.Test.dll
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_5_Tests/WebServer.Test/obj/Debug/netcoreapp2.2/WebServer.Test.pdb

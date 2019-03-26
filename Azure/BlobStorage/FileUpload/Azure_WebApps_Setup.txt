@@ -1,0 +1,15 @@
+az appservice plan create --name blob-exercise-plan --resource-group c701b7d7-8966-4518-93bb-02cb49bc5886
+
+az webapp create --name <your-unique-app-name> --plan blob-exercise-plan --resource-group c701b7d7-8966-4518-93bb-02cb49bc5886
+
+CONNECTIONSTRING=$(az storage account show-connection-string --name <your-unique-storage-account-name> --output tsv)
+
+az webapp config appsettings set --name <your-unique-app-name> --resource-group c701b7d7-8966-4518-93bb-02cb49bc5886 --settings AzureStorageConfig:ConnectionString=$CONNECTIONSTRING AzureStorageConfig:FileContainerName=files
+
+dotnet publish -o pub
+cd pub
+zip -r ../site.zip *
+
+az webapp deployment source config-zip --src ../site.zip --name <your-unique-app-name> --resource-group c701b7d7-8966-4518-93bb-02cb49bc5886
+
+az storage blob list --account-name <your-unique-storage-account-name> --container-name files --query [].{Name:name} --output table
