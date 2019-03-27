@@ -1,0 +1,14 @@
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_Azure/RetailApi/bin/Debug/netcoreapp2.2/RetailApi.deps.json
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_Azure/RetailApi/bin/Debug/netcoreapp2.2/RetailApi.runtimeconfig.json
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_Azure/RetailApi/bin/Debug/netcoreapp2.2/RetailApi.runtimeconfig.dev.json
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_Azure/RetailApi/bin/Debug/netcoreapp2.2/RetailApi.dll
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_Azure/RetailApi/bin/Debug/netcoreapp2.2/RetailApi.pdb
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_Azure/RetailApi/obj/Debug/netcoreapp2.2/RetailApi.csprojAssemblyReference.cache
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_Azure/RetailApi/obj/Debug/netcoreapp2.2/RetailApi.csproj.CoreCompileInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_Azure/RetailApi/obj/Debug/netcoreapp2.2/RetailApi.RazorAssemblyInfo.cache
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_Azure/RetailApi/obj/Debug/netcoreapp2.2/RetailApi.RazorAssemblyInfo.cs
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_Azure/RetailApi/obj/Debug/netcoreapp2.2/RetailApi.AssemblyInfoInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_Azure/RetailApi/obj/Debug/netcoreapp2.2/RetailApi.AssemblyInfo.cs
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_Azure/RetailApi/obj/Debug/netcoreapp2.2/RetailApi.RazorTargetAssemblyInfo.cache
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_Azure/RetailApi/obj/Debug/netcoreapp2.2/RetailApi.dll
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_Azure/RetailApi/obj/Debug/netcoreapp2.2/RetailApi.pdb

@@ -1,0 +1,14 @@
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_6_Tests/WorldWebServer/obj/Debug/netcoreapp2.2/WorldWebServer.csprojAssemblyReference.cache
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_6_Tests/WorldWebServer/obj/Debug/netcoreapp2.2/WorldWebServer.csproj.CoreCompileInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_6_Tests/WorldWebServer/obj/Debug/netcoreapp2.2/WorldWebServer.RazorAssemblyInfo.cache
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_6_Tests/WorldWebServer/obj/Debug/netcoreapp2.2/WorldWebServer.RazorAssemblyInfo.cs
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_6_Tests/WorldWebServer/obj/Debug/netcoreapp2.2/WorldWebServer.AssemblyInfoInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_6_Tests/WorldWebServer/obj/Debug/netcoreapp2.2/WorldWebServer.AssemblyInfo.cs
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_6_Tests/WorldWebServer/bin/Debug/netcoreapp2.2/WorldWebServer.deps.json
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_6_Tests/WorldWebServer/bin/Debug/netcoreapp2.2/WorldWebServer.runtimeconfig.json
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_6_Tests/WorldWebServer/bin/Debug/netcoreapp2.2/WorldWebServer.runtimeconfig.dev.json
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_6_Tests/WorldWebServer/bin/Debug/netcoreapp2.2/WorldWebServer.dll
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_6_Tests/WorldWebServer/bin/Debug/netcoreapp2.2/WorldWebServer.pdb
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_6_Tests/WorldWebServer/obj/Debug/netcoreapp2.2/WorldWebServer.RazorTargetAssemblyInfo.cache
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_6_Tests/WorldWebServer/obj/Debug/netcoreapp2.2/WorldWebServer.dll
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_6_Tests/WorldWebServer/obj/Debug/netcoreapp2.2/WorldWebServer.pdb

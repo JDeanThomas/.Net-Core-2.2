@@ -1,0 +1,17 @@
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_6_Tests/WorldWebServer.Test/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_6_Tests/WorldWebServer.Test/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_6_Tests/WorldWebServer.Test/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_6_Tests/WorldWebServer.Test/bin/Debug/netcoreapp2.2/WorldWebServer.Test.deps.json
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_6_Tests/WorldWebServer.Test/bin/Debug/netcoreapp2.2/WorldWebServer.Test.runtimeconfig.json
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_6_Tests/WorldWebServer.Test/bin/Debug/netcoreapp2.2/WorldWebServer.Test.runtimeconfig.dev.json
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_6_Tests/WorldWebServer.Test/bin/Debug/netcoreapp2.2/WorldWebServer.Test.dll
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_6_Tests/WorldWebServer.Test/bin/Debug/netcoreapp2.2/WorldWebServer.Test.pdb
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_6_Tests/WorldWebServer.Test/bin/Debug/netcoreapp2.2/WorldWebServer.dll
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_6_Tests/WorldWebServer.Test/bin/Debug/netcoreapp2.2/WorldWebServer.pdb
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_6_Tests/WorldWebServer.Test/obj/Debug/netcoreapp2.2/WorldWebServer.Test.csprojAssemblyReference.cache
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_6_Tests/WorldWebServer.Test/obj/Debug/netcoreapp2.2/WorldWebServer.Test.csproj.CoreCompileInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_6_Tests/WorldWebServer.Test/obj/Debug/netcoreapp2.2/WorldWebServer.Test.AssemblyInfoInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_6_Tests/WorldWebServer.Test/obj/Debug/netcoreapp2.2/WorldWebServer.Test.AssemblyInfo.cs
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_6_Tests/WorldWebServer.Test/obj/Debug/netcoreapp2.2/WorldWebServer.Test.csproj.CopyComplete
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_6_Tests/WorldWebServer.Test/obj/Debug/netcoreapp2.2/WorldWebServer.Test.dll
+/Users/jasonthomas/Projects/C_Sharp/APIs/WebAPI_6_Tests/WorldWebServer.Test/obj/Debug/netcoreapp2.2/WorldWebServer.Test.pdb
