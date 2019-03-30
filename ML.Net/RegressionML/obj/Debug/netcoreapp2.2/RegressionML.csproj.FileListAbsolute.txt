@@ -1,0 +1,11 @@
+/Users/jasonthomas/Projects/C_Sharp/ML.Net/RegressionML/bin/Debug/netcoreapp2.2/RegressionML.deps.json
+/Users/jasonthomas/Projects/C_Sharp/ML.Net/RegressionML/bin/Debug/netcoreapp2.2/RegressionML.runtimeconfig.json
+/Users/jasonthomas/Projects/C_Sharp/ML.Net/RegressionML/bin/Debug/netcoreapp2.2/RegressionML.runtimeconfig.dev.json
+/Users/jasonthomas/Projects/C_Sharp/ML.Net/RegressionML/bin/Debug/netcoreapp2.2/RegressionML.dll
+/Users/jasonthomas/Projects/C_Sharp/ML.Net/RegressionML/bin/Debug/netcoreapp2.2/RegressionML.pdb
+/Users/jasonthomas/Projects/C_Sharp/ML.Net/RegressionML/obj/Debug/netcoreapp2.2/RegressionML.csprojAssemblyReference.cache
+/Users/jasonthomas/Projects/C_Sharp/ML.Net/RegressionML/obj/Debug/netcoreapp2.2/RegressionML.csproj.CoreCompileInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/ML.Net/RegressionML/obj/Debug/netcoreapp2.2/RegressionML.AssemblyInfoInputs.cache
+/Users/jasonthomas/Projects/C_Sharp/ML.Net/RegressionML/obj/Debug/netcoreapp2.2/RegressionML.AssemblyInfo.cs
+/Users/jasonthomas/Projects/C_Sharp/ML.Net/RegressionML/obj/Debug/netcoreapp2.2/RegressionML.dll
+/Users/jasonthomas/Projects/C_Sharp/ML.Net/RegressionML/obj/Debug/netcoreapp2.2/RegressionML.pdb

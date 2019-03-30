@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/jasonthomas/Projects/C_Sharp/ML.Net/RegressionML/RegressionML.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
