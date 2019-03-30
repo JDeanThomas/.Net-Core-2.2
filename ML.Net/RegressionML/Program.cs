@@ -108,7 +108,9 @@ namespace RegressionML
             using (var fileStream = new FileStream(_modelPath, FileMode.Create, FileAccess.Write, 
                 FileShare.Write)) mlContext.Model.Save(model, fileStream);
 
+            Console.WriteLine();
             Console.WriteLine("The model is saved to {0}", _modelPath);
+            Console.WriteLine();
         }
     }
 }
